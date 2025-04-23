@@ -5,11 +5,7 @@ An interactive and data-driven **Tableau dashboard** that analyzes synthetic eme
 
 ---
 
-## 📊 Dashboard Preview
 
-![Dashboard Screenshot](./478d8f3f-dd10-4918-9fc8-91b047fd452e.png)
-
----
 
 ## 🔍 Key Features
 
